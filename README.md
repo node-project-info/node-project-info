@@ -1,16 +1,15 @@
-### Hi there 👋
+# Node Project Info
 
-<!--
-**node-project-info/node-project-info** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unofficial effort to spread/share info about what's going on in the Node.js project.
 
-Here are some ideas to get you started:
+Goal is to promote project news from collaborators through retweets, toots, etc on platforms
+like twitter, mastodon and Linked in.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+By default we will trust collaborators to at mention:
+* @nodeprojectinfo on twitter
+* [node-projectinfo-978ab7266](https://www.linkedin.com/in/node-projectinfo-978ab7266) on Linkedin
+* TBD Mastrodon
+
+for relevant project news. Those post will then be promoted and amplified. Any collaborators
+who at mention in posts that spam, promote their commercial interest otherwise don't appropriately
+share project news will be dropped from the list of collaborators that will be amplified.
