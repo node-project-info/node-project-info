@@ -7,7 +7,7 @@ The goal is to promote project news from collaborators through retweets, toots,
 and the like on platforms like twitter, mastodon and Linked in.
 
 By default we will trust collaborators to at mention:
-* @nodeprojectinfo on twitter
+* [@nodeprojectinfo](https://twitter.com/nodeprojectinfo) on twitter
 * [node-projectinfo-978ab7266](https://www.linkedin.com/in/node-projectinfo-978ab7266) on Linkedin
 * TBD Mastrodon
 
