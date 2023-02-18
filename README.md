@@ -1,6 +1,7 @@
 # Node Project Info
 
-Unofficial effort to spread/share info about what's going on in the Node.js project.
+Unofficial effort to spread/share info about what's going on in the 
+[Node.js](https://github.com/nodejs/node) project.
 
 Goal is to promote project news from collaborators through retweets, toots, etc on platforms
 like twitter, mastodon and Linked in.
