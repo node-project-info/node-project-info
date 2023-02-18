@@ -11,5 +11,5 @@ By default we will trust collaborators to at mention:
 * TBD Mastrodon
 
 for relevant project news. Those post will then be promoted and amplified. Any collaborators
-who at mention in posts that spam, promote their commercial interest otherwise don't appropriately
+who at mention in posts that spam, promote their commercial interest or otherwise don't appropriately
 share project news will be dropped from the list of collaborators that will be amplified.
